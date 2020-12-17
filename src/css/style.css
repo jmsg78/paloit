@@ -1,0 +1,61 @@
+.home-title {
+  height: 70px;
+  background-color: #008577;
+  top:0;
+  font-size: 20px;
+  font-weight:700;
+  color:#ffffff;
+  display: grid;
+  justify-content: left;
+  align-items: center;
+}
+.home-card {
+  margin-top: 150px;
+  display: grid;
+  justify-content: center;
+}
+
+.home-card-label {
+  font-size:10px;
+  color:#666666;
+  
+}
+.home-card-input {
+  padding:5px;
+  width: 100%;
+}
+.home-button {
+  margin-top:40px;
+  padding: 10px;
+  text-align: center;
+  border-radius: 10px;
+  border:0px;
+  cursor: pointer;
+
+}
+.home-footer {
+  margin-top: 50px;
+  display: grid;
+  justify-content: center;
+  align-items: left;
+  text-align: left;
+  height: 25px;
+  background-color: gray;
+  top:0;
+  font-size: 13px;
+  font-weight:700;
+  color:#ffffff;
+  
+}
+.message {
+  color:red;
+  font-size:12px;
+}
+.luckyNumber {
+  margin-top: 70px;
+  color:#008577;
+  font-size: 20px;
+  font-weight: 500;
+  display: block;
+  text-align: center;
+}
